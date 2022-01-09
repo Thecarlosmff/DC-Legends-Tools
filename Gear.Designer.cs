@@ -216,85 +216,85 @@ namespace DC_Legends_Tools
             // 
             // GearStart1
             // 
-            this.GearStart1.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearStart1.Location = new System.Drawing.Point(42, 150);
+            this.GearStart1.BackColor = System.Drawing.Color.Beige;
+            this.GearStart1.Location = new System.Drawing.Point(73, 150);
             this.GearStart1.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearStart1.Name = "GearStart1";
-            this.GearStart1.Size = new System.Drawing.Size(100, 22);
+            this.GearStart1.Size = new System.Drawing.Size(43, 22);
             this.GearStart1.TabIndex = 1;
             // 
             // GearStart2
             // 
-            this.GearStart2.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearStart2.Location = new System.Drawing.Point(181, 150);
+            this.GearStart2.BackColor = System.Drawing.Color.Beige;
+            this.GearStart2.Location = new System.Drawing.Point(212, 150);
             this.GearStart2.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearStart2.Name = "GearStart2";
-            this.GearStart2.Size = new System.Drawing.Size(100, 22);
+            this.GearStart2.Size = new System.Drawing.Size(43, 22);
             this.GearStart2.TabIndex = 2;
             // 
             // GearStart4
             // 
-            this.GearStart4.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearStart4.Location = new System.Drawing.Point(42, 296);
+            this.GearStart4.BackColor = System.Drawing.Color.Beige;
+            this.GearStart4.Location = new System.Drawing.Point(73, 296);
             this.GearStart4.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearStart4.Name = "GearStart4";
-            this.GearStart4.Size = new System.Drawing.Size(100, 22);
+            this.GearStart4.Size = new System.Drawing.Size(43, 22);
             this.GearStart4.TabIndex = 4;
             // 
             // GearStart3
             // 
-            this.GearStart3.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearStart3.Location = new System.Drawing.Point(324, 150);
+            this.GearStart3.BackColor = System.Drawing.Color.Beige;
+            this.GearStart3.Location = new System.Drawing.Point(355, 150);
             this.GearStart3.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearStart3.Name = "GearStart3";
-            this.GearStart3.Size = new System.Drawing.Size(100, 22);
+            this.GearStart3.Size = new System.Drawing.Size(43, 22);
             this.GearStart3.TabIndex = 3;
             // 
             // GearStart6
             // 
-            this.GearStart6.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearStart6.Location = new System.Drawing.Point(324, 296);
+            this.GearStart6.BackColor = System.Drawing.Color.Beige;
+            this.GearStart6.Location = new System.Drawing.Point(355, 296);
             this.GearStart6.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearStart6.Name = "GearStart6";
-            this.GearStart6.Size = new System.Drawing.Size(100, 22);
+            this.GearStart6.Size = new System.Drawing.Size(43, 22);
             this.GearStart6.TabIndex = 6;
             // 
             // GearStart5
             // 
-            this.GearStart5.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearStart5.Location = new System.Drawing.Point(181, 296);
+            this.GearStart5.BackColor = System.Drawing.Color.Beige;
+            this.GearStart5.Location = new System.Drawing.Point(212, 296);
             this.GearStart5.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearStart5.Name = "GearStart5";
-            this.GearStart5.Size = new System.Drawing.Size(100, 22);
+            this.GearStart5.Size = new System.Drawing.Size(43, 22);
             this.GearStart5.TabIndex = 5;
             // 
             // numericUpDown6
             // 
-            this.numericUpDown6.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.numericUpDown6.BackColor = System.Drawing.Color.Beige;
             this.numericUpDown6.Location = new System.Drawing.Point(161, 357);
             this.numericUpDown6.Maximum = new decimal(new int[] {
             11,
@@ -359,7 +359,7 @@ namespace DC_Legends_Tools
             // 
             // numericUpDown7
             // 
-            this.numericUpDown7.BackColor = System.Drawing.Color.LightSteelBlue;
+            this.numericUpDown7.BackColor = System.Drawing.Color.Beige;
             this.numericUpDown7.Location = new System.Drawing.Point(151, 353);
             this.numericUpDown7.Maximum = new decimal(new int[] {
             11,
@@ -372,80 +372,80 @@ namespace DC_Legends_Tools
             // 
             // GearEnd5
             // 
-            this.GearEnd5.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearEnd5.Location = new System.Drawing.Point(171, 292);
+            this.GearEnd5.BackColor = System.Drawing.Color.Beige;
+            this.GearEnd5.Location = new System.Drawing.Point(193, 292);
             this.GearEnd5.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearEnd5.Name = "GearEnd5";
-            this.GearEnd5.Size = new System.Drawing.Size(100, 22);
+            this.GearEnd5.Size = new System.Drawing.Size(43, 22);
             this.GearEnd5.TabIndex = 19;
             // 
             // GearEnd6
             // 
-            this.GearEnd6.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearEnd6.Location = new System.Drawing.Point(314, 292);
+            this.GearEnd6.BackColor = System.Drawing.Color.Beige;
+            this.GearEnd6.Location = new System.Drawing.Point(336, 292);
             this.GearEnd6.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearEnd6.Name = "GearEnd6";
-            this.GearEnd6.Size = new System.Drawing.Size(100, 22);
+            this.GearEnd6.Size = new System.Drawing.Size(43, 22);
             this.GearEnd6.TabIndex = 21;
             // 
             // GearEnd3
             // 
-            this.GearEnd3.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearEnd3.Location = new System.Drawing.Point(314, 146);
+            this.GearEnd3.BackColor = System.Drawing.Color.Beige;
+            this.GearEnd3.Location = new System.Drawing.Point(336, 146);
             this.GearEnd3.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearEnd3.Name = "GearEnd3";
-            this.GearEnd3.Size = new System.Drawing.Size(100, 22);
+            this.GearEnd3.Size = new System.Drawing.Size(43, 22);
             this.GearEnd3.TabIndex = 16;
             // 
             // GearEnd4
             // 
-            this.GearEnd4.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearEnd4.Location = new System.Drawing.Point(32, 292);
+            this.GearEnd4.BackColor = System.Drawing.Color.Beige;
+            this.GearEnd4.Location = new System.Drawing.Point(54, 292);
             this.GearEnd4.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearEnd4.Name = "GearEnd4";
-            this.GearEnd4.Size = new System.Drawing.Size(100, 22);
+            this.GearEnd4.Size = new System.Drawing.Size(43, 22);
             this.GearEnd4.TabIndex = 17;
             // 
             // GearEnd2
             // 
-            this.GearEnd2.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearEnd2.Location = new System.Drawing.Point(171, 146);
+            this.GearEnd2.BackColor = System.Drawing.Color.Beige;
+            this.GearEnd2.Location = new System.Drawing.Point(193, 146);
             this.GearEnd2.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearEnd2.Name = "GearEnd2";
-            this.GearEnd2.Size = new System.Drawing.Size(100, 22);
+            this.GearEnd2.Size = new System.Drawing.Size(43, 22);
             this.GearEnd2.TabIndex = 15;
             // 
             // GearEnd1
             // 
-            this.GearEnd1.BackColor = System.Drawing.Color.LightSteelBlue;
-            this.GearEnd1.Location = new System.Drawing.Point(32, 146);
+            this.GearEnd1.BackColor = System.Drawing.Color.Beige;
+            this.GearEnd1.Location = new System.Drawing.Point(54, 146);
             this.GearEnd1.Maximum = new decimal(new int[] {
             11,
             0,
             0,
             0});
             this.GearEnd1.Name = "GearEnd1";
-            this.GearEnd1.Size = new System.Drawing.Size(100, 22);
+            this.GearEnd1.Size = new System.Drawing.Size(43, 22);
             this.GearEnd1.TabIndex = 14;
             // 
             // pictureBox2
@@ -544,9 +544,9 @@ namespace DC_Legends_Tools
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(440, 409);
+            this.button3.Location = new System.Drawing.Point(429, 409);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(68, 47);
+            this.button3.Size = new System.Drawing.Size(79, 47);
             this.button3.TabIndex = 29;
             this.button3.Text = "Calc";
             this.button3.UseVisualStyleBackColor = true;
@@ -554,9 +554,9 @@ namespace DC_Legends_Tools
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(440, 462);
+            this.button4.Location = new System.Drawing.Point(429, 462);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(68, 47);
+            this.button4.Size = new System.Drawing.Size(79, 47);
             this.button4.TabIndex = 30;
             this.button4.Text = "Reset Total";
             this.button4.UseVisualStyleBackColor = true;
@@ -760,10 +760,10 @@ namespace DC_Legends_Tools
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(6, 3);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(17, 17);
+            this.label5.Size = new System.Drawing.Size(19, 20);
             this.label5.TabIndex = 0;
             this.label5.Text = "1";
             this.label5.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -772,18 +772,20 @@ namespace DC_Legends_Tools
             // label6
             // 
             this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(6, 35);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(16, 17);
+            this.label6.Size = new System.Drawing.Size(19, 20);
             this.label6.TabIndex = 1;
             this.label6.Text = "2";
             // 
             // label7
             // 
             this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(6, 67);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(16, 17);
+            this.label7.Size = new System.Drawing.Size(19, 20);
             this.label7.TabIndex = 3;
             this.label7.Text = "3";
             // 
@@ -800,7 +802,7 @@ namespace DC_Legends_Tools
             // pictureBox18
             // 
             this.pictureBox18.Image = global::DC_Legends_Tools.Properties.Resources.material_3;
-            this.pictureBox18.Location = new System.Drawing.Point(695, 443);
+            this.pictureBox18.Location = new System.Drawing.Point(689, 443);
             this.pictureBox18.Name = "pictureBox18";
             this.pictureBox18.Size = new System.Drawing.Size(50, 50);
             this.pictureBox18.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -820,7 +822,7 @@ namespace DC_Legends_Tools
             // pictureBox20
             // 
             this.pictureBox20.Image = global::DC_Legends_Tools.Properties.Resources.material_4;
-            this.pictureBox20.Location = new System.Drawing.Point(765, 443);
+            this.pictureBox20.Location = new System.Drawing.Point(753, 443);
             this.pictureBox20.Name = "pictureBox20";
             this.pictureBox20.Size = new System.Drawing.Size(50, 50);
             this.pictureBox20.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -840,9 +842,9 @@ namespace DC_Legends_Tools
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(440, 515);
+            this.button5.Location = new System.Drawing.Point(429, 515);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(68, 47);
+            this.button5.Size = new System.Drawing.Size(79, 47);
             this.button5.TabIndex = 44;
             this.button5.Text = "Add";
             this.button5.UseVisualStyleBackColor = true;
@@ -850,9 +852,9 @@ namespace DC_Legends_Tools
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(440, 568);
+            this.button6.Location = new System.Drawing.Point(429, 568);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(68, 47);
+            this.button6.Size = new System.Drawing.Size(79, 47);
             this.button6.TabIndex = 45;
             this.button6.Text = "Remove";
             this.button6.UseVisualStyleBackColor = true;
@@ -881,10 +883,10 @@ namespace DC_Legends_Tools
             this.tableLayoutPanel1.ColumnCount = 6;
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 38F));
             this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 59F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 65F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 67F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 67F));
-            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 132F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 62F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 58F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 63F));
+            this.tableLayoutPanel1.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Absolute, 148F));
             this.tableLayoutPanel1.Controls.Add(this.lt43, 4, 2);
             this.tableLayoutPanel1.Controls.Add(this.lt33, 3, 2);
             this.tableLayoutPanel1.Controls.Add(this.lt23, 2, 2);
@@ -914,7 +916,7 @@ namespace DC_Legends_Tools
             // lt43
             // 
             this.lt43.AutoSize = true;
-            this.lt43.Location = new System.Drawing.Point(247, 67);
+            this.lt43.Location = new System.Drawing.Point(235, 67);
             this.lt43.Name = "lt43";
             this.lt43.Size = new System.Drawing.Size(16, 17);
             this.lt43.TabIndex = 17;
@@ -923,7 +925,7 @@ namespace DC_Legends_Tools
             // lt33
             // 
             this.lt33.AutoSize = true;
-            this.lt33.Location = new System.Drawing.Point(177, 67);
+            this.lt33.Location = new System.Drawing.Point(174, 67);
             this.lt33.Name = "lt33";
             this.lt33.Size = new System.Drawing.Size(16, 17);
             this.lt33.TabIndex = 16;
@@ -950,16 +952,17 @@ namespace DC_Legends_Tools
             // label35
             // 
             this.label35.AutoSize = true;
+            this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label35.Location = new System.Drawing.Point(6, 67);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(16, 17);
+            this.label35.Size = new System.Drawing.Size(19, 20);
             this.label35.TabIndex = 13;
             this.label35.Text = "3";
             // 
             // lt41
             // 
             this.lt41.AutoSize = true;
-            this.lt41.Location = new System.Drawing.Point(247, 3);
+            this.lt41.Location = new System.Drawing.Point(235, 3);
             this.lt41.Name = "lt41";
             this.lt41.Size = new System.Drawing.Size(16, 17);
             this.lt41.TabIndex = 5;
@@ -968,7 +971,7 @@ namespace DC_Legends_Tools
             // lt31
             // 
             this.lt31.AutoSize = true;
-            this.lt31.Location = new System.Drawing.Point(177, 3);
+            this.lt31.Location = new System.Drawing.Point(174, 3);
             this.lt31.Name = "lt31";
             this.lt31.Size = new System.Drawing.Size(16, 17);
             this.lt31.TabIndex = 4;
@@ -995,16 +998,17 @@ namespace DC_Legends_Tools
             // label23
             // 
             this.label23.AutoSize = true;
+            this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.Location = new System.Drawing.Point(6, 3);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(16, 17);
+            this.label23.Size = new System.Drawing.Size(19, 20);
             this.label23.TabIndex = 1;
             this.label23.Text = "1";
             // 
             // pictureBox21
             // 
             this.pictureBox21.Image = global::DC_Legends_Tools.Properties.Resources.essence;
-            this.pictureBox21.Location = new System.Drawing.Point(844, 443);
+            this.pictureBox21.Location = new System.Drawing.Point(834, 443);
             this.pictureBox21.Name = "pictureBox21";
             this.pictureBox21.Size = new System.Drawing.Size(63, 50);
             this.pictureBox21.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
@@ -1014,9 +1018,10 @@ namespace DC_Legends_Tools
             // label29
             // 
             this.label29.AutoSize = true;
+            this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.Location = new System.Drawing.Point(6, 35);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(16, 17);
+            this.label29.Size = new System.Drawing.Size(19, 20);
             this.label29.TabIndex = 7;
             this.label29.Text = "2";
             // 
@@ -1041,7 +1046,7 @@ namespace DC_Legends_Tools
             // lt32
             // 
             this.lt32.AutoSize = true;
-            this.lt32.Location = new System.Drawing.Point(177, 35);
+            this.lt32.Location = new System.Drawing.Point(174, 35);
             this.lt32.Name = "lt32";
             this.lt32.Size = new System.Drawing.Size(16, 17);
             this.lt32.TabIndex = 10;
@@ -1050,7 +1055,7 @@ namespace DC_Legends_Tools
             // lt42
             // 
             this.lt42.AutoSize = true;
-            this.lt42.Location = new System.Drawing.Point(247, 35);
+            this.lt42.Location = new System.Drawing.Point(235, 35);
             this.lt42.Name = "lt42";
             this.lt42.Size = new System.Drawing.Size(16, 17);
             this.lt42.TabIndex = 11;
@@ -1059,7 +1064,7 @@ namespace DC_Legends_Tools
             // ltessence
             // 
             this.ltessence.AutoSize = true;
-            this.ltessence.Location = new System.Drawing.Point(317, 3);
+            this.ltessence.Location = new System.Drawing.Point(301, 3);
             this.ltessence.Name = "ltessence";
             this.tableLayoutPanel1.SetRowSpan(this.ltessence, 3);
             this.ltessence.Size = new System.Drawing.Size(16, 17);
