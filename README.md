@@ -1,3 +1,3 @@
 # DC-Legends-Tools
 
-Open as issue to request functionalities. Thank you.
+Open an issue to request functionalities. Thank you.
